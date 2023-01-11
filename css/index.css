@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navbar{
-	background: #386576;
+	background: black;
 }
 .weblogo{
 	width: 190px;
@@ -79,7 +79,7 @@
 	/*height: 45px;*/
     padding-top: 6px;
 	/*color: #386576;*/
-	color: #f79d16;;
+	color: #f79d16;
 	font-size: 33px;
 }
 .mainfooter{
